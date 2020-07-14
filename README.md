@@ -1,5 +1,6 @@
 # dataviz-hub2-comments
-Github repository for storing dataviz.shef.ac.uk comments.
+Github repository for storing dataviz.shef.ac.uk comments.  
+Feel free to make comments directly in issues of this repository or via [dataviz website](dataviz.shef.ac.uk).
 
 ## Code of Conduct
 
